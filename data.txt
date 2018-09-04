@@ -1,0 +1,4 @@
+Name: Steph
+Age: 28
+Favorite Color: Purple
+Favorite animal: cat
